@@ -5,10 +5,10 @@ I am a 5' 4.5" (probably) tall person, who doesn't have any super power (unfortu
 I am currently studying in Rajshahi University of Engineering and Technology ([RUET](https://www.ruet.ac.bd/)). I am always eager to learn new technologies and remain up-to-date.
 
 <p>
-   <code><a href="https://twitter.com/Mizanur43401273"> <img src="./assets/twitter.png" height="30"></a></code>&emsp;
+   <code><a href="https://twitter.com/Mizanur43401273"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/tree/master/assets/twitter.png" height="30"></a></code>&emsp;
    <code>
-   <a href="https://www.instagram.com/mizan842/"> <img src="./assets/instagram-sketched.png" height="30"></a></code>&emsp;
-   <code><a href="https://www.facebook.com/mizan.rahmam.50/"> <img src="./assets/facebook.png" height="30"></a></code>
+   <a href="https://www.instagram.com/mizan842/"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/tree/master/assets/instagram-sketched.png" height="30"></a></code>&emsp;
+   <code><a href="https://www.facebook.com/mizan.rahmam.50/"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/tree/master/assets/facebook.png" height="30"></a></code>
 <p>
 <br>
 <p>
