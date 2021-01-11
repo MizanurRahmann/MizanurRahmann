@@ -7,7 +7,7 @@ I am currently studying in Rajshahi University of Engineering and Technology ([R
 <p>
    <code><a href="https://twitter.com/Mizanur43401273"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/blob/master/assets/twitter.png" height="30"></a></code>&emsp;
    <code>
-   <a href="https://www.instagram.com/mizan842/"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/blob/master/assets/instagram-sketched.png" height="30"></a></code>&emsp;
+   <a href="https://www.instagram.com/mizan842/"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/blob/master/assets/instagram.png" height="30"></a></code>&emsp;
    <code><a href="https://www.facebook.com/mizan.rahmam.50/"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/blob/master/assets/facebook.png" height="30"></a></code>
 <p>
 <br>
@@ -17,16 +17,16 @@ I am currently studying in Rajshahi University of Engineering and Technology ([R
 
 ### Activities
 
-- 🔭 I’m currently working on React and Redux
-- 🌱 I’m currently learning Design pattern with JavaScript
-- 🤔 I’m looking for help with Firebase
-- 💬 Ask me about anything [here](https://github.com/MizanurRahmann/MizanurRahmann/issues)
-- ⚡ Fun fact: Without working my brain rots!
-
+-   🔭 I’m currently working on React and Redux
+-   🌱 I’m currently learning Design pattern with JavaScript
+-   🤔 I’m looking for help with Firebase
+-   💬 Ask me about anything [here](https://github.com/MizanurRahmann/MizanurRahmann/issues)
+-   ⚡ Fun fact: Without working my brain rots!
 
 <br>
 
 ### Skills & Tools
+
 <p>
    <img width="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
    <img src="https://i.giphy.com/media/XAxylRMCdpbEWUAvr8/200.webp" width="70">
@@ -42,4 +42,5 @@ I am currently studying in Rajshahi University of Engineering and Technology ([R
 </p>
 
 ---
+
 <img align='right' src="https://komarev.com/ghpvc/?username=MizanurRahmann" alt="MizanurRahmann" /> </p>
