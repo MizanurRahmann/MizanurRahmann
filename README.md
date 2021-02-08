@@ -17,8 +17,8 @@ I am currently studying in Rajshahi University of Engineering and Technology ([R
 ### Activities
 
 -   🔭 I’m currently working on React and Redux
--   🌱 I’m currently learning Design pattern with JavaScript
--   🤔 I’m looking for help with Firebase
+-   🌱 I’m currently learning Machine Learning Algorithms
+-   🤔 I’m looking for help about Machine Learning Concepts
 -   💬 Ask me about anything [here](https://github.com/MizanurRahmann/MizanurRahmann/issues)
 -   ⚡ Fun fact: Without working my brain rots!
 
@@ -34,8 +34,9 @@ I am currently studying in Rajshahi University of Engineering and Technology ([R
    <img src="https://i.giphy.com/media/Sr8xDpMwVKOHUWDVRD/200.webp" alt="bootstrap" width="70">
    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" alt="js" width="70">
    <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" alt="react" width="70">
-   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="firebase" width="85" />
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="60" />
+   <img src="https://media.giphy.com/media/Ri2TUcKlaOcaDBxFpY/giphy.gif" alt="firebase" width="85" />
+   <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" alt="nodeJs" width="65" />
    <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" alt="python" width="70">
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="70"/>
    <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="140">
@@ -43,7 +44,6 @@ I am currently studying in Rajshahi University of Engineering and Technology ([R
 
 
 </p>
-
 ---
 
 <img align='right' src="https://komarev.com/ghpvc/?username=MizanurRahmann" alt="MizanurRahmann" /> </p>
