@@ -5,9 +5,10 @@ I am a 5' 4.5" (probably) tall person, who doesn't have any super power (unfortu
 I am currently studying in Rajshahi University of Engineering and Technology ([RUET](https://www.ruet.ac.bd/)). I am always eager to learn new technologies and remain up-to-date.
 
 <p>
-   <a href="https://twitter.com/Mizanur43401273"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/blob/master/assets/twitter.png" height="30"></a>&emsp;
-   <a href="https://www.instagram.com/mizan842/"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/blob/master/assets/instagram.png" height="30"></a>&emsp;
-<a href="https://www.facebook.com/mizan.rahmam.50/"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/blob/master/assets/facebook.png" height="30"></a>
+   <a href="https://twitter.com/Mizanur43401273"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/blob/master/assets/twitter.png" height="25"></a>&emsp;
+   <a href="https://www.instagram.com/mizan842/"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/blob/master/assets/instagram.png" height="25"></a>&emsp;
+<a href="https://www.facebook.com/mizan.rahmam.50/"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/blob/master/assets/facebook.png" height="25"></a>&emsp;
+<a href="https://stackoverflow.com/users/15151265/mizanur-rahman?tab=profile"> <img src="https://github.com/MizanurRahmann/MizanurRahmann/blob/master/assets/stackOverflow.png" height="25"></a> 
 <p>
 <br>
 <!-- <p>
